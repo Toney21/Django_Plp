@@ -1,0 +1,10 @@
+body {
+  background: hotpink;
+}
+
+img {
+  width: 50%;
+  height: auto;
+  border-color: #999;
+  border: 5px solid #999;
+}
